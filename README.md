@@ -5,8 +5,8 @@ Projeto feito no modulo node + TS
 ### Pre-requisitos globais:
 `npm i -g nodemon typescript ts-node`
 
-## instalacao
+## instalação
 `npm install`
 
 ### para rodar o projeto:
-`npm rum start-dev`
+`npm run start-dev`
